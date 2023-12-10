@@ -1,0 +1,28 @@
+/* Basic Moral of CSS */
+/* selected tag{
+    Property : Value;
+} */ 
+h1{
+    color: chartreuse;
+}
+li{
+    color: rgba(242, 24, 24, 0.5);
+}
+
+body{
+    background-color: slateblue;
+    background-image: url(https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg);
+    background-repeat: inherit;
+}
+
+div{
+    background-color: chartreuse;
+    border-color: brown;
+    border-width: 4px;
+    border-style: dashed;
+}
+span{
+    color: azure;
+    border: darksalmon;
+
+}
