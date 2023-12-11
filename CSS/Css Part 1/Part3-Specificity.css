@@ -1,0 +1,12 @@
+.FirstOrder{
+    color: mediumblue;
+    border: black solid 3px;
+}
+
+#SecondOrder{
+    color: blueviolet;
+    border: dotted blue 5px;
+}
+li{
+    color: red;
+}
