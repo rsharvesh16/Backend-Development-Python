@@ -1,0 +1,11 @@
+div{
+    color: brown;
+}
+.firstDiv{
+    color: blue;
+}
+
+#singledout{
+    color: chartreuse;
+    text-decoration: line-through;
+}
