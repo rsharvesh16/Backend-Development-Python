@@ -1,0 +1,18 @@
+body{
+    background-color: #011627;
+    border: 20px solid brown;
+    text-align: center;
+}
+.Header1{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    margin-bottom: 10px;
+}
+
+#sub{
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
