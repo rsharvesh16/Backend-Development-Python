@@ -10,9 +10,14 @@ body{
 
 form{
     margin-bottom: 10px;
+    text-align: center;
 }
 
 #sub{
     background-color: yellowgreen;
     border-radius: 20px;
+}
+
+.Thankyou{
+    color: whitesmoke;
 }
